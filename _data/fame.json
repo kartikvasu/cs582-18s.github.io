@@ -1,0 +1,143 @@
+[
+    {
+        "title": { text: "Hashtag Trends", link: "http://cdeng.github.io/HashtagTrends/"},
+        "team": [
+            {"name": "Cheng Deng",
+             "email": "",
+             "site": "https://github.com/cdeng"},
+            {"name": "Mi Tian",
+             "email": "",
+             "site": "https://github.com/mtian0415"},
+            {"name": "Xing Liu",
+             "email": "",
+             "site": "https://github.com/stanley4162004"}
+        ],
+        "description":"A visualization project that shows information spreading through Instagram #Hashtag.",
+        "repo": "https://github.com/cdeng/HashtagTrends",
+        "link":"http://cdeng.github.io/HashtagTrends/"
+    },
+    {
+        "title": { text: "New York Subway Cars", link: "http://hotcars-nyc.github.io/"},
+        "team": [
+            {"name": "Yanpu Li",
+             "email": "",
+             "site": "https://github.com/YanpuLi"},
+            {"name": "Azharuddin Priyotomo",
+             "email": "",
+             "site": "https://github.com/apriyotomo/"},
+            {"name": "Huan Ye",
+             "email": "",
+             "site": "https://github.com/Leaf27"}
+        ],
+        "description":"A visualization of heat issues in New York subway cars.",
+        "repo": "https://github.com/hotcars-nyc/hotcars-nyc.github.io",
+        "link":"http://hotcars-nyc.github.io/"
+    },
+    {
+        "title": { text: "Trivia Show Visualization", link: "http://www.christinaaiello.com/DataVisFinal/index.html"},
+        "team": [
+            {"name": "Christina Aiello",
+             "email": "",
+             "site": "http://www.christinaaiello.com/"},
+        ],
+        "description":"A visualization of all Jeopardy questions between the years 1984 and 2012.",
+        "repo": "",
+        "link":"http://www.christinaaiello.com/DataVisFinal/index.html"
+    },
+    {
+        "title": { text: "Obesity in Massachusetts", link: "http://chitrakraj.github.io/DataVisFinal/index.html"},
+        "team": [
+            {"name": "Chitra Pichaimuthu Kanickaraj",
+             "email": "",
+             "site": "https://github.com/chitrakraj/"},
+            {"name": "Tabassum Kakar",
+             "email": "",
+             "site": "https://github.com/tkakar/"},
+            {"name": "Suwodi Dutta Bordolo",
+             "email": "",
+             "site": "https://github.com/suwDB/"},
+        ],
+        "description":"Visualizing obesity related factors and federal aid programs.",
+        "repo": "https://github.com/Chitrakraj/US-Obesity",
+        "link":"http://chitrakraj.github.io/DataVisFinal/index.html"
+    },
+    {
+        "title": { text: "Towns and Crashes", link: "http://sbarman-mi9.github.io/CS573FinalViz/index.html"},
+        "team": [
+            {"name": "Snehasish Barman",
+             "email": "",
+             "site": "https://github.com/sbarman-mi9/"},
+            {"name": "Sounthar M",
+             "email": "",
+             "site": "https://github.com/msounthar/"},
+            {"name": "Sachin Sudarshana",
+             "email": "",
+             "site": "https://github.com/sachin019/"},
+        ],
+        "description":"Visualizing how the seasons and time of the day influence the frequency of crashes in Massachusetts towns.",
+        "repo": "https://github.com/sbarman-mi9/CS573FinalViz",
+        "link":"http://sbarman-mi9.github.io/CS573FinalViz/index.html"
+    },
+    {
+        "title": { text: "An American Day", link: "https://benmcmorran.github.io/DataVisFinal/"},
+        "team": [
+            {"name": "Ben McMorran",
+             "email": "",
+             "site": "https://github.com/benmcmorran/"},
+            {"name": "Francisco Sanchez",
+             "email": "",
+             "site": "https://github.com/friscis"},
+        ],
+        "description":"Using data collected by the Bureau of Labor Statistics in the American Time Use Survey, we can get detailed insight into the daily habits that we all share.",
+        "repo": "https://github.com/benmcmorran/anamericanday",
+        "link":"https://benmcmorran.github.io/DataVisFinal/"
+    },
+    {
+        "title": { text: "Yelp Business Data", link: "https://stels07.github.io/DataVisFinal/"},
+        "team": [
+            {"name": "Shi Wang",
+             "email": "",
+             "site": "https://github.com/stels07"},
+            {"name": "Hongzhang Cheng",
+             "email": "",
+             "site": "https://github.com/hcheng3"},
+            {"name": "Yihao Zhou",
+             "email": "",
+             "site": "https://github.com/iihaw"},
+        ],
+        "description":"The idea of this project is to provide a better user experience for selecting restaurants, especially to those who travel to a new place and want to know the general restaurants info of this area.",
+        "repo": "https://github.com/hcheng3/Data-Visualization-Final-Project",
+        "link":"https://stels07.github.io/DataVisFinal/"
+    },
+    {
+        "title": { text: "Flight Delay Data", link: "https://jacysun.github.io/DataVisFinal/index.html"},
+        "team": [
+            {"name": "Huayan Sun",
+             "email": "",
+             "site": "https://github.com/jacysun"},
+            {"name": "Mei Yang",
+             "email": "",
+             "site": ""},
+            {"name": "Hamid Mansoor",
+             "email": "",
+             "site": ""},
+        ],
+        "description":"We built a tool that gives travellers the ability to browse through flight delay and cancellation data for some recent years, across the major carriers in the US and major airports. After using this tool, travellers should be able to guage the performance of various carriers and airports.",
+        "repo": "https://github.com/jacysun/Flight_Delay_Checking_System",
+        "link":"https://jacysun.github.io/DataVisFinal/index.html"
+    },
+    {
+        "title": { text: "Visualization of an NBA Match", link: "https://braydenxia.github.io/DataVisFinal/"},
+        "team": [
+            {"name": "Xiaozhou Zou",
+             "email": "",
+             "site": ""},
+            {"name": "Yuxuan Xia",
+             "email": "",
+             "site": ""},
+        ],
+        "description":"We built a tool that gives travellers the ability to browse through flight delay and cancellation data for some recent years, across the major carriers in the US and major airports. After using this tool, travellers should be able to guage the performance of various carriers and airports.",
+        "repo": "",
+        "link":"https://braydenxia.github.io/DataVisFinal/"
+    },
+]
