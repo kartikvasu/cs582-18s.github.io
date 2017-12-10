@@ -60,7 +60,7 @@ function render_project(d, i, A) {
             <div class="description">Description: ${d.description}</div>
             <div class="repo">${maybe_repo(d.repo)}</div>
             <div class="link">Project Link: <a href=${d.link}> ${d.link}</a></div>
-            <div class="frame"><iframe src=${d.link} style="width:500px;height:250px;" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" frameborder="0" /></div>
+            <div class="frame"><iframe src=${d.link} style="width:500px;height:250px;" sandbox="allow-scripts" frameborder="0" /></div>
         </div>
         `
     );
