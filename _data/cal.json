@@ -189,8 +189,8 @@
   },
   {
     "reading": [
-      { "text": "Munzner, Process and Pitfalls in Writing Information Visualization Research Papers", "link": ""},
-      { "text": "QnDReview: Read 100 CHI Papers in 7 Hours", "link": ""}
+      { "text": "Munzner, Process and Pitfalls in Writing Information Visualization Research Papers", "link": "https://cs582-18s.github.io/papers/munznerprocess.pdf"},
+      { "text": "QnDReview: Read 100 CHI Papers in 7 Hours", "link": "https://cs582-18s.github.io/papers/yi2014qndreview.pdf"}
     ]
   },
   {
@@ -203,9 +203,9 @@
   },
   {
     "reading": [
-      { "text": "The Perception of Correlation in Scatterplots", "link": ""},
-      { "text": "Ranking Visualizations of Correlation Using Weber's Law", "link": ""},
-      { "text": "(Optional, meta paper) On the Prospects for a Science of Visualization", "link": ""}
+      { "text": "The Perception of Correlation in Scatterplots", "link": "https://cs582-18s.github.io/papers/rensink2010perception.pdf"},
+      { "text": "Ranking Visualizations of Correlation Using Weber's Law", "link": "https://cs582-18s.github.io/papers/harrison2014ranking.pdf"},
+      { "text": "(Optional, meta paper) On the Prospects for a Science of Visualization", "link": "https://cs582-18s.github.io/papers/rensink2014prospects.pdf"}
     ]
   },
   {
@@ -225,8 +225,8 @@
   },
   {
     "reading": [
-      { "text": "The Effects of Interactive Latency on Exploratory Visual Analysis", "link": ""},
-      { "text": "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets", "link": ""}
+      { "text": "The Effects of Interactive Latency on Exploratory Visual Analysis", "link": "https://cs582-18s.github.io/papers/liu2014latency.pdf"},
+      { "text": "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets", "link": "https://cs582-18s.github.io/papers/lins2013nanocubes.pdf"}
     ]
   },
   {
@@ -238,8 +238,8 @@
   },
   {
     "reading": [
-      { "text": "A Layered Grammar of Graphics", "link": ""},
-      { "text": "Small Multiples, Large Singles: A New Approach for Visual Data Exploration", "link": ""}
+      { "text": "A Layered Grammar of Graphics", "link": "https://cs582-18s.github.io/papers/wickhamgrammar.pdf"},
+      { "text": "Small Multiples, Large Singles: A New Approach for Visual Data Exploration", "link": "https://cs582-18s.github.io/papers/elzen2013small.pdf"}
     ]
   },
   {
