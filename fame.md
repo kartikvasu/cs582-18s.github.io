@@ -10,13 +10,13 @@ Here are some notable projects from previous versions of the course:
 <style>
 .project {
   margin: 1em 0 0 0;
-  padding: 0 0 0 1em;
 }
 
 .title {
     font-weight: bold;
     font-family: 'Changa', sans-serif;
     font-size: 24px;
+    margin-top: 40px;
 
 }
 
@@ -24,15 +24,11 @@ Here are some notable projects from previous versions of the course:
     padding-left: 25px;
 }
 
-hr {
-	height: 10px;
-	border: 0;
-	box-shadow: 0 10px 10px -10px #8c8b8b inset;
-    padding-bottom: 40px;
-}
-
-iframe {
-    padding-top: 15px;
+.pic {
+  margin-top: 15px;
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 </style>
@@ -54,13 +50,12 @@ fame_div.selectAll('.project')
 function render_project(d, i, A) {
     return (`
         <div>
-            <hr>
             <div class="title"> ${d.title.text} </div>
             <div class="team">Team: ${team_members(d.team)} </div>
             <div class="description">Description: ${d.description}</div>
             <div class="repo">${maybe_repo(d.repo)}</div>
             <div class="link">Project Link: <a href=${d.link}> ${d.link}</a></div>
-            <div class="frame"><iframe src=${d.link} style="width:500px;height:250px;" sandbox="allow-scripts" frameborder="0" /></div>
+            <img class="pic" src="${d.pic}" alt="${d.title}">
         </div>
         `
     );

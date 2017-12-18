@@ -14,7 +14,8 @@
         ],
         "description":"A visualization project that shows information spreading through Instagram #Hashtag.",
         "repo": "https://github.com/cdeng/HashtagTrends",
-        "link":"http://cdeng.github.io/HashtagTrends/"
+        "link":"http://cdeng.github.io/HashtagTrends/",
+        "pic": "/img/fame/hashtag-trends.jpg"
     },
     {
         "title": { text: "New York Subway Cars", link: "http://hotcars-nyc.github.io/"},
@@ -31,7 +32,8 @@
         ],
         "description":"A visualization of heat issues in New York subway cars.",
         "repo": "https://github.com/hotcars-nyc/hotcars-nyc.github.io",
-        "link":"http://hotcars-nyc.github.io/"
+        "link":"http://hotcars-nyc.github.io/",
+        "pic": "/img/fame/hot-cars.jpg"
     },
     {
         "title": { text: "Trivia Show Visualization", link: "http://www.christinaaiello.com/DataVisFinal/index.html"},
@@ -42,7 +44,8 @@
         ],
         "description":"A visualization of all Jeopardy questions between the years 1984 and 2012.",
         "repo": "",
-        "link":"http://www.christinaaiello.com/DataVisFinal/index.html"
+        "link":"http://www.christinaaiello.com/DataVisFinal/index.html",
+        "pic": "/img/fame/trivia.jpg"
     },
     {
         "title": { text: "Obesity in Massachusetts", link: "http://chitrakraj.github.io/DataVisFinal/index.html"},
@@ -59,7 +62,8 @@
         ],
         "description":"Visualizing obesity related factors and federal aid programs.",
         "repo": "https://github.com/Chitrakraj/US-Obesity",
-        "link":"http://chitrakraj.github.io/DataVisFinal/index.html"
+        "link":"http://chitrakraj.github.io/DataVisFinal/index.html",
+        "pic": "/img/fame/obesity.jpg"
     },
     {
         "title": { text: "Towns and Crashes", link: "http://sbarman-mi9.github.io/CS573FinalViz/index.html"},
@@ -76,7 +80,8 @@
         ],
         "description":"Visualizing how the seasons and time of the day influence the frequency of crashes in Massachusetts towns.",
         "repo": "https://github.com/sbarman-mi9/CS573FinalViz",
-        "link":"http://sbarman-mi9.github.io/CS573FinalViz/index.html"
+        "link":"http://sbarman-mi9.github.io/CS573FinalViz/index.html",
+        "pic": "/img/fame/towns-and-crashes.jpg"
     },
     {
         "title": { text: "An American Day", link: "https://benmcmorran.github.io/DataVisFinal/"},
@@ -90,7 +95,8 @@
         ],
         "description":"Using data collected by the Bureau of Labor Statistics in the American Time Use Survey, we can get detailed insight into the daily habits that we all share.",
         "repo": "https://github.com/benmcmorran/anamericanday",
-        "link":"https://benmcmorran.github.io/DataVisFinal/"
+        "link":"https://benmcmorran.github.io/DataVisFinal/",
+        "pic": "/img/fame/american-day.jpg"
     },
     {
         "title": { text: "Yelp Business Data", link: "https://stels07.github.io/DataVisFinal/"},
@@ -107,7 +113,8 @@
         ],
         "description":"The idea of this project is to provide a better user experience for selecting restaurants, especially to those who travel to a new place and want to know the general restaurants info of this area.",
         "repo": "https://github.com/hcheng3/Data-Visualization-Final-Project",
-        "link":"https://stels07.github.io/DataVisFinal/"
+        "link":"https://stels07.github.io/DataVisFinal/",
+        "pic": "/img/fame/yelp-data.jpg"
     },
     {
         "title": { text: "Flight Delay Data", link: "https://jacysun.github.io/DataVisFinal/index.html"},
@@ -124,7 +131,8 @@
         ],
         "description":"We built a tool that gives travellers the ability to browse through flight delay and cancellation data for some recent years, across the major carriers in the US and major airports. After using this tool, travellers should be able to guage the performance of various carriers and airports.",
         "repo": "https://github.com/jacysun/Flight_Delay_Checking_System",
-        "link":"https://jacysun.github.io/DataVisFinal/index.html"
+        "link":"https://jacysun.github.io/DataVisFinal/index.html",
+        "pic": "/img/fame/flight-delays.jpg"
     },
     {
         "title": { text: "Visualization of an NBA Match", link: "https://braydenxia.github.io/DataVisFinal/"},
@@ -138,6 +146,7 @@
         ],
         "description":"We built a tool that gives travellers the ability to browse through flight delay and cancellation data for some recent years, across the major carriers in the US and major airports. After using this tool, travellers should be able to guage the performance of various carriers and airports.",
         "repo": "",
-        "link":"https://braydenxia.github.io/DataVisFinal/"
+        "link":"https://braydenxia.github.io/DataVisFinal/",
+        "pic": "/img/fame/nba.jpg"
     },
 ]
