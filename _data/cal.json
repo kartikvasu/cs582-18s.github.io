@@ -1,258 +1,403 @@
 [
   {
-    "header": { "title": "Week 0 (Jan 10 - 12)" }
-  },
-  {
     "date": "10-Jan-2018",
-    "topic": "Overview of Visualization | Intro to Tools",
-    "assigned": [
-      { "text": "Assignment 0 - Course Survey", "link": "" },
-      { "text": "Assignment 1 - Hello World: GitHub and d3", "link": ""}],
+    "weekly_header": "Week 0 (Jan 10 - 12)",
+    "day": {
+      "topic": "Overview of Visualization | Intro to Tools",
+      "assigned": [
+        {
+          "text": "Assignment 0 - Course Survey",
+          "link": ""
+        },
+        {
+          "text": "Assignment 1 - Hello World: GitHub and d3",
+          "link": "https://github.com/cs582-18s/01-ghd3"
+        }
+      ]
+    }
   },
   {
     "date": "12-Jan-2018",
-    "due": "Assignment 0 -- 11:59pm",
-  },
-  {
-    "header": { "title": "Week 1 (Jan 15 - 19)" }
-  },
-  {
-    "reading": [
-      { "text": "Chapters 1 & 2", "link": ""}
-    ],
-    "suggested": [
-      { "text": "Design is a Search Problem", "link": "https://www.youtube.com/watch?v=fThhbt23SGM"},
-      { "text": "Dear Data (the background and entries themselves)", "link": "http://www.dear-data.com/theproject"}
-    ]
+    "day": {
+      "due": "Assignment 0 -- 11:59pm"
+    }
   },
   {
     "date": "15-Jan-2018",
-    "topic": "Martin Luther King Jr. Day (No Classes)",
-    "assigned": [{ "text": "Assignment 2 - Data Visualization, 10 ways", "link": ""}]
+    "weekly_header": "Week 1 (Jan 15 - 19)",
+    "weekly_reading": [
+      {
+        "text": "Chapters 1 & 2",
+        "link": ""
+      }
+    ],
+    "weekly_suggested": [
+      {
+        "text": "Design is a Search Problem",
+        "link": "https://www.youtube.com/watch?v=fThhbt23SGM"
+      },
+      {
+        "text": "Dear Data (the background and entries themselves)",
+        "link": "http://www.dear-data.com/theproject"
+      }
+    ],
+    "day": {
+      "topic": "Martin Luther King Jr. Day (No Classes)",
+      "assigned": [
+        {
+          "text": "Assignment 2 - Data Visualization, 10 ways",
+          "link": "https://github.com/cs582-18s/02-DataVis-10ways"
+        }
+      ]
+    }
   },
   {
     "date": "16-Jan-2018",
-    "due": "Assignment 1 -- 11:59pm"
+    "day": {
+      "due": "Assignment 1 -- 11:59pm"
+    }
   },
   {
     "date": "17-Jan-2018",
-    "topic": "Data Representation",
-    "lab": { "text": "Data Deconstruction", "link": ""},
-  },
-  {
-    "header": { "title": "Week 2 (Jan 22 - 26)" }
-  },
-  {
-    "reading": [
-      { "text": "Chapters 3 & 4", "link": ""}
-    ],
-    "suggested": [
-      { "text": "(Paper) A Nested Model for Visualization Design and Validation", "link": "https://www.cs.ubc.ca/labs/imager/tr/2009/NestedModel/NestedModel.pdf"},
-      { "text": "(Paper) Low-Level Components of Analytic Activity in Information Visualization", "link": "http://www.cc.gatech.edu/~stasko/papers/infovis05.pdf"},
-      { "text": "(Blog) The State of Information Visualization, 2017", "link": "https://eagereyes.org/blog/2017/the-state-of-information-visualization-2017"}
-    ]
+    "day": {
+      "topic": "Data Representation",
+      "lab": {
+        "text": "Data Deconstruction",
+        "link": "https://github.com/cs582-18s/lab-deconstruct"
+      }
+    }
   },
   {
     "date": "22-Jan-2018",
-    "topic": "Task Abstraction",
-    "assigned": [{ "text": "Assignment 3 - Replicating a Classic Experiment", "link": "" }],
+    "weekly_header": "Week 2 (Jan 22 - 26)",
+    "weekly_reading": [
+      {
+        "text": "Chapters 3 & 4",
+        "link": ""
+      }
+    ],
+    "weekly_suggested": [
+      {
+        "text": "(Paper) A Nested Model for Visualization Design and Validation",
+        "link": "https://www.cs.ubc.ca/labs/imager/tr/2009/NestedModel/NestedModel.pdf"
+      },
+      {
+        "text": "(Paper) Low-Level Components of Analytic Activity in Information Visualization",
+        "link": "http://www.cc.gatech.edu/~stasko/papers/infovis05.pdf"
+      },
+      {
+        "text": "(Blog) The State of Information Visualization, 2017",
+        "link": "https://eagereyes.org/blog/2017/the-state-of-information-visualization-2017"
+      }
+    ],
+    "day": {
+      "topic": "Task Abstraction",
+      "assigned": [
+        {
+          "text": "Assignment 3 - Replicating a Classic Experiment",
+          "link": "https://github.com/cs582-18s/03-Experiment"
+        }
+      ]
+    }
   },
   {
     "date": "23-Jan-2018",
-    "due": "Assignment 2 -- 11:59pm",
+    "day": {
+      "due": "Assignment 2 -- 11:59pm"
+    }
   },
   {
     "date": "24-Jan-2018",
-    "topic": "Evaluation",
-    "assigned": [{ "text": "Final Project", "link": ""}]
-  },
-  {
-    "header": { "title": "Week 3 (Jan 29 - Feb 2)" }
-  },
-  {
-    "reading": [
-      { "text": "Chapters 5 & 6", "link": ""}
-    ],
-    "suggested": [
-      { "text": "Ranking Visualizations of Correlation Using Weber's Law", "link": "https://web.cs.wpi.edu/~ltharrison/files/harrison2014ranking.pdf"},
-      { "text": "Evaluating the Impact of Binning 2D Scalar Fields", "link": "https://www.cs.utah.edu/~miriah/publications/binning-study.pdf"},
-      { "text": "Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error", "link": "https://graphics.cs.wisc.edu/Papers/2014/CG14/Preprint.pdf"}
-    ]
+    "day": {
+      "topic": "Evaluation",
+      "assigned": [
+        {
+          "text": "Final Project",
+          "link": "https://github.com/cs582-18s/DataVisFinal"
+        }
+      ]
+    }
   },
   {
     "date": "29-Jan-2018",
-    "topic": "Visual Channels and Data Mapping",
-    "assigned": [{ "text": "Assignment 4 - Maps And Views", "link": "" }],
+    "weekly_header": "Week 3 (Jan 29 - Feb 2)",
+    "weekly_reading": [
+      {
+        "text": "Chapters 5 & 6",
+        "link": ""
+      }
+    ],
+    "weekly_suggested": [
+      {
+        "text": "Ranking Visualizations of Correlation Using Weber's Law",
+        "link": "https://web.cs.wpi.edu/~ltharrison/files/harrison2014ranking.pdf"
+      },
+      {
+        "text": "Evaluating the Impact of Binning 2D Scalar Fields",
+        "link": "https://www.cs.utah.edu/~miriah/publications/binning-study.pdf"
+      },
+      {
+        "text": "Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error",
+        "link": "https://graphics.cs.wisc.edu/Papers/2014/CG14/Preprint.pdf"
+      }
+    ],
+    "day": {
+      "topic": "Visual Channels and Data Mapping",
+      "assigned": [
+        {
+          "text": "Assignment 4 - Maps And Views",
+          "link": "https://github.com/cs582-18s/04-MapsAndViews"
+        }
+      ]
+    }
   },
   {
     "date": "31-Jan-2018",
-    "lab": {"text": "Data Reconstruction", "link": ""},
-  },
-  {
-    "header": { "title": "Week 4 (Feb 5 - 9)" }
-  },
-  {
-    "reading": [
-      { "text": "Chapter 10", "link": ""}
-    ]
+    "day": {
+      "lab": {
+        "text": "Data Reconstruction",
+        "link": "https://github.com/cs582-18s/lab-reconstruct"
+      }
+    }
   },
   {
     "date": "5-Feb-2018",
-    "topic": "Color"
+    "weekly_header": "Week 4 (Feb 5 - 9)",
+    "weekly_reading": [
+      {
+        "text": "Chapter 10",
+        "link": ""
+      }
+    ],
+    "day": {
+      "topic": "Color"
+    }
   },
   {
     "date": "6-Feb-2018",
-    "due": "Assignment 3 -- 11:59pm"
+    "day": {
+      "due": "Assignment 3 -- 11:59pm"
+    }
   },
   {
-    "date": "7-Feb-2018",
-  },
-  {
-    "header": { "title": "Week 5 (Feb 12 - 16)" }
-  },
-  {
-    "reading": [
-      { "text": "Chapter 7", "link": ""}
-    ],
-    "suggested": [
-      { "text": "Hierarchical Parallel Coordinates for Exploration of Large Datasets (pdf)", "link": "http://davis.wpi.edu/~xmdv/docs/vis99_HPC.pdf"},
-      { "text": "Small Multiples, Large Singles: A New Approach for Visual Data Exploration (pdf)", "link": "https://pdfs.semanticscholar.org/c27f/8fb8d8296263e5f8892d06ab988f8dfb4eea.pdf"},
-      { "text": "How to Use t-SNE Effectively", "link": "http://distill.pub/2016/misread-tsne/"}
-    ]
+    "date": "7-Feb-2018"
   },
   {
     "date": "12-Feb-2018",
-    "topic": "Tabular Data",
-    "due": "Final Project Proposal",
-    "vid": "https://www.youtube.com/watch?v=p5IUsg7ZImg",
+    "weekly_header": "Week 5 (Feb 12 - 16)",
+    "weekly_reading": [
+      {
+        "text": "Chapter 7",
+        "link": ""
+      }
+    ],
+    "weekly_suggested": [
+      {
+        "text": "Hierarchical Parallel Coordinates for Exploration of Large Datasets (pdf)",
+        "link": "http://davis.wpi.edu/~xmdv/docs/vis99_HPC.pdf"
+      },
+      {
+        "text": "Small Multiples, Large Singles: A New Approach for Visual Data Exploration (pdf)",
+        "link": "https://pdfs.semanticscholar.org/c27f/8fb8d8296263e5f8892d06ab988f8dfb4eea.pdf"
+      },
+      {
+        "text": "How to Use t-SNE Effectively",
+        "link": "http://distill.pub/2016/misread-tsne/"
+      }
+    ],
+    "day": {
+      "topic": "Tabular Data",
+      "due": "Final Project Proposal",
+      "vid": "https://www.youtube.com/watch?v=p5IUsg7ZImg"
+    }
   },
   {
     "date": "13-Feb-2018",
-    "due": "Assignment 4 -- 11:59pm",
+    "day": {
+      "due": "Assignment 4 -- 11:59pm"
+    }
   },
   {
     "date": "14-Feb-2018",
-    "due": "Project Proposal -- 11:59pm"
-  },
-  {
-    "header": { "title": "Week 6 (Feb 19 - 23)" }
-  },
-  {
-    "reading": [
-      { "text": "Chapter 8", "link": ""}
-    ]
+    "day": {
+      "due": "Project Proposal -- 11:59pm"
+    }
   },
   {
     "date": "19-Feb-2018",
-    "topic": "Spatial Data",
-    "lab": { "text": "Maps!", "link": "" },
+    "weekly_header": "Week 6 (Feb 19 - 23)",
+    "weekly_reading": [
+      {
+        "text": "Chapter 8",
+        "link": ""
+      }
+    ],
+    "day": {
+      "topic": "Spatial Data",
+      "lab": {
+        "text": "Maps!",
+        "link": "https://github.com/cs582-18s/lab-map"
+      }
+    }
   },
   {
     "date": "21-Feb-2018",
-    "due": "Prototype Presentations & Feedback -- 11:59pm"
-  },
-  {
-    "header": { "title": "Week 7 (Feb 26 - Mar 2)" }
-  },
-  {
-    "reading": [
-      { "text": "Chapter 9", "link": ""}
-    ]
+    "day": {
+      "due": "Prototype Presentations & Feedback -- 11:59pm"
+    }
   },
   {
     "date": "26-Feb-2018",
-    "topic": "Networks & Trees"
+    "weekly_header": "Week 7 (Feb 26 - Mar 2)",
+    "weekly_reading": [
+      {
+        "text": "Chapter 9",
+        "link": ""
+      }
+    ],
+    "day": {
+      "topic": "Networks & Trees"
+    }
   },
   {
     "date": "28-Feb-2018",
-    "lab": {"text": "Using the Force", "link": ""},
-    "due": "Final Project -- 11:59pm"
+    "day": {
+      "lab": {
+      "text": "Using the Force",
+      "link": ""
+    },
+      "due": "Final Project -- 11:59pm"
+    }
   },
   {
-    "header": { "title": "Holiday (Mar 5 - 9)" }
+    "date": "5-Mar-2018",
+    "weekly_header": "Holiday (Mar 5 - 9)",
+    "notes": [
+      "No Classes: A term to B term transition week.",
+      "Note: at this point the course transitions to graduate students only. Expect projects and more on emerging research in visualization."
+    ]
   },
   {
-    "text": "No Classes: A term to B term transition week."
-  },
-  {
-    "text": "Note: at this point the course transitions to graduate students only. Expect projects and more on emerging research in visualization."
-  },
-  {
-    "header": { "title": "Week 8 (Mar 12 - 16)" }
+    "date": "12-Mar-2018",
+    "weekly_header": "Week 8 (Mar 12 - 16)"
   },
   {
     "date": "14-Mar-2018",
-    "topic": "Discussion on D-term"
+    "day": {
+      "topic": "Discussion on D-term"
+    }
   },
   {
-    "header": { "title": "Week 9 (Mar 19 - 23)" }
-  },
-  {
-    "reading": [
-      { "text": "Munzner, Process and Pitfalls in Writing Information Visualization Research Papers", "link": "https://cs582-18s.github.io/papers/munznerprocess.pdf"},
-      { "text": "QnDReview: Read 100 CHI Papers in 7 Hours", "link": "https://cs582-18s.github.io/papers/yi2014qndreview.pdf"}
+    "date": "19-Mar-2018",
+    "weekly_header": "Week 9 (Mar 19 - 23)",
+    "weekly_reading": [
+      {
+        "text": "Munzner, Process and Pitfalls in Writing Information Visualization Research Papers",
+        "link": "https://cs582-18s.github.io/papers/munznerprocess.pdf"
+      },
+      {
+        "text": "QnDReview: Read 100 CHI Papers in 7 Hours",
+        "link": "https://cs582-18s.github.io/papers/yi2014qndreview.pdf"
+      }
     ]
   },
   {
     "date": "21-Mar-2018",
-    "topic": "Reading discussion/quiz, Paper presentation example",
-    "assigned": [{ "text": "Project", "link": "" }]
+    "day": {
+      "topic": "weekly_reading discussion/quiz, Paper presentation example",
+      "assigned": [
+        {
+          "text": "Project",
+          "link": ""
+        }
+      ]
+    }
   },
   {
-    "header": { "title": "Week 10 (Mar 26 - 30)" }
-  },
-  {
-    "reading": [
-      { "text": "The Perception of Correlation in Scatterplots", "link": "https://cs582-18s.github.io/papers/rensink2010perception.pdf"},
-      { "text": "Ranking Visualizations of Correlation Using Weber's Law", "link": "https://cs582-18s.github.io/papers/harrison2014ranking.pdf"},
-      { "text": "(Optional, meta paper) On the Prospects for a Science of Visualization", "link": "https://cs582-18s.github.io/papers/rensink2014prospects.pdf"}
+    "date": "26-Mar-2018",
+    "weekly_header": "Week 10 (Mar 26 - 30)",
+    "weekly_reading": [
+      {
+        "text": "The Perception of Correlation in Scatterplots",
+        "link": "https://cs582-18s.github.io/papers/rensink2010perception.pdf"
+      },
+      {
+        "text": "Ranking Visualizations of Correlation Using Weber's Law",
+        "link": "https://cs582-18s.github.io/papers/harrison2014ranking.pdf"
+      },
+      {
+        "text": "(Optional, meta paper) On the Prospects for a Science of Visualization",
+        "link": "https://cs582-18s.github.io/papers/rensink2014prospects.pdf"
+      }
     ]
   },
   {
     "date": "28-Mar-2018",
-    "topic": "Reading discussion/quiz, Paper presentations (example)",
-    "due": "Project Proposal"
+    "day": {
+      "topic": "weekly_reading discussion/quiz, Paper presentations (example)",
+      "due": "Project Proposal"
+    }
   },
   {
-    "header": { "title": "Week 11 (Apr 2 - 6)" },
+    "date": "2-Apr-2018",
+    "weekly_header": "Week 11 (Apr 2 - 6)",
   },
   {
     "date": "4-Apr-2018",
-    "topic": "Reading discussion/quiz, Paper presentations",
+    "day": {
+      "topic": "weekly_reading discussion/quiz, Paper presentations"
+    }
   },
   {
-    "header": { "title": "Week 12 (Apr 9 - 13)" },
-  },
-  {
-    "reading": [
-      { "text": "The Effects of Interactive Latency on Exploratory Visual Analysis", "link": "https://cs582-18s.github.io/papers/liu2014latency.pdf"},
-      { "text": "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets", "link": "https://cs582-18s.github.io/papers/lins2013nanocubes.pdf"}
+    "date": "9-Apr-2018",
+    "weekly_header": "Week 12 (Apr 9 - 13)",
+    "weekly_reading": [
+      {
+        "text": "The Effects of Interactive Latency on Exploratory Visual Analysis",
+        "link": "https://cs582-18s.github.io/papers/liu2014latency.pdf"
+      },
+      {
+        "text": "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets",
+        "link": "https://cs582-18s.github.io/papers/lins2013nanocubes.pdf"
+      }
     ]
   },
   {
     "date": "11-Apr-2018",
-    "topic": "Reading discussion/quiz, Project Checkpoint"
+    "day": {
+      "topic": "weekly_reading discussion/quiz, Project Checkpoint"
+    }
   },
   {
-    "header": { "title": "Week 13 (Apr 16 - 20)" }
-  },
-  {
-    "reading": [
-      { "text": "A Layered Grammar of Graphics", "link": "https://cs582-18s.github.io/papers/wickhamgrammar.pdf"},
-      { "text": "Small Multiples, Large Singles: A New Approach for Visual Data Exploration", "link": "https://cs582-18s.github.io/papers/elzen2013small.pdf"}
+    "date": "16-Apr-2018",
+    "weekly_header": "Week 13 (Apr 16 - 20)",
+    "weekly_reading": [
+      {
+        "text": "A Layered Grammar of Graphics",
+        "link": "https://cs582-18s.github.io/papers/wickhamgrammar.pdf"
+      },
+      {
+        "text": "Small Multiples, Large Singles: A New Approach for Visual Data Exploration",
+        "link": "https://cs582-18s.github.io/papers/elzen2013small.pdf"
+      }
     ]
   },
   {
     "date": "18-Apr-2018",
-    "topic": "Reading discussion/quiz, Project Checkpoint",
-    "due": "Annotated bibliography"
+    "day": {
+      "topic": "weekly_reading discussion/quiz, Project Checkpoint",
+      "due": "Annotated bibliography"
+    }
   },
   {
-    "header": { "title": "Week 14 (Apr 23 - 27)" }
+    "date": "23-Apr-2018",
+    "weekly_header": "Week 14 (Apr 23 - 27)"
   },
   {
     "date": "25-Apr-2018",
-    "topic": "Reading discussion/quiz, Final Day!",
-    "due": "Project (final paper)"
+    "day": {
+      "topic": "weekly_reading discussion/quiz, Final Day!",
+      "due": "Project (final paper)"
+    }
   }
 ]

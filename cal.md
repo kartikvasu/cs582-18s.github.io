@@ -46,15 +46,57 @@ cal_div.selectAll('.event')
 
 function render_event(d, i, A) {
   var s = '';
-  if (d.header)
-    s += '<div class="header">' + render_header(d.header) + '</div>';
-  else
-    s += '<div class="item">' + render_item(d) + '</div>';
+  if (d.weekly_header)
+    s += '<div class="header">' + render_header(d.weekly_header) + '</div>';
+  if (d.weekly_reading)
+    s += '<div class="item">' + render_reading(d.weekly_reading, true) + '</div>';
+  if (d.weekly_suggested)
+    s += '<div class="item">' + render_reading(d.weekly_suggested, false) + '</div>';
+  if (d.day)
+      s += '<div class="item">' + render_day(d.day, d.date) + '</div>';
+  if (d.notes)
+      s += '<div class="item">' + render_notes(d.notes) + '</div>';
   return s;
 }
 
-function render_header(d) {
-  var s = '<h2 class="header-title">' + d.title + '</h2>';
+function render_header(header) {
+  var s = '<h2 class="header-title">' + header + '</h2>';
+  return s;
+}
+
+function render_reading(readings, required) {
+  s = required ? '<div>Reading:</div><ul>' : '<div>Suggested Reading:</div><ul>';
+  readings.forEach(function(reading) {
+    s += '<li>' + reading_link(reading) + '</li>';
+  })
+  s += '</ul>';
+  return s;
+}
+
+function render_day(day, date) {
+  var s = '<div class="date">' + date_rejigger(date) + '</div>';
+  if(day.topic)
+    s += '<div class="topic">Topic: ' + day.topic + '</div>';
+  if(day.lab)
+    s += '<div class="topic">Lab: ' + lab_link(day.lab) + '</div>';
+  if(day.assigned)
+    day.assigned.forEach(function(assignment) {
+      s += '<div class="assigned">Assigned: ' + assigned_str(assignment) + '</div>';
+    });
+  if(day.due)
+    s += '<div class="due">Due: ' + day.due + '</div>';
+  if(day.materials)
+    s += '<div class="materials">' + materials_link(day.materials) + '</div>';
+  if(day.vid)
+    s += '<div class="vid">' + vid_link(day.vid) + '</div>';
+  return s;
+}
+
+function render_notes(notes) {
+  var s = '';
+  notes.forEach(function(note) {
+    s += '<div class="note">' + note + '</div>';
+  });
   return s;
 }
 
@@ -67,46 +109,9 @@ function reading_link(d) {
   return s;
 }
 
-function render_item(d) {
-  var s = '';
-  if (d.date)
-    s += '<div class="date">' + date_rejigger(d.date) + '</div>';
-  if(d.topic)
-    s += '<div class="topic">Topic: ' + d.topic + '</div>';
-  if(d.lab)
-    s += '<div class="topic">Lab: ' + lab_link(d.lab) + '</div>';
-  if(d.assigned)
-    d.assigned.forEach( function(a) {
-      s += '<div class="assigned">Assigned: ' + assigned_str(a) + '</div>';
-    });
-  if (d.reading) {
-    s += '<div>Reading:</div><ul>'
-    d.reading.forEach( function(a) {
-      s += '<li>' + reading_link(a) + '</li>';
-    })
-    s += '</ul>';
-  }
-  if (d.suggested) {
-    s += '<div>Suggested Reading:</div><ul>';
-    d.suggested.forEach( function(a) {
-      s += '<li>' + reading_link(a) + '</li>';
-    });
-    s += '</ul>';
-  }
-  if(d.due)
-    s += '<div class="due">Due: ' + d.due + '</div>';
-  if(d.materials)
-    s += '<div class="materials">' + materials_link(d.materials) + '</div>';
-  if(d.vid)
-    s += '<div class="vid">' + vid_link(d.vid) + '</div>';
-  if(d.text)
-    s += '<div>' + d.text + '</div>';
-  return s;
-}
-
 function lab_link(d) {
   var s = '';
-  s += '<a href="/' + d.link + '">' + d.text + '</a>';
+  s += '<a href="' + d.link + '">' + d.text + '</a>';
   return s;
 }
 
