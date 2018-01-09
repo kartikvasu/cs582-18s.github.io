@@ -73,7 +73,7 @@ This term we will be using Slack for class discussion. Slack is highly catered t
 
 Rather than emailing questions to me, I encourage you to post your questions on Slack in public channels.
 
-Sign up for our Slack at: [https://cs582-18s.slack.com/signup](https://cs582-18s.slack.com/signup){:target="_blank"}
+Sign up for our Slack at: [https://cs582-18s.slack.com/signup](https://join.slack.com/t/cs582-18s/shared_invite/enQtMjkzMjU3MzEyNzY5LTA0ZWE2YmRiY2M2NTk0MGE2ZmE3YmI2ZDNkNWM3NmUyNTVjNmQwZWM0ZmE4NmU4YTg5Y2RiNWUzODQyNjYyODQ){:target="_blank"}
 
 **Your Slack username must be first-name last-initial. Like "laneh".** To help everyone get to know each other, I encourage you to fill out the profile and upload a picture of yourself.
 
