@@ -7,7 +7,7 @@
       "assigned": [
         {
           "text": "Assignment 0 - Course Survey",
-          "link": ""
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSfxsD5AYhCr3bzBQ4vYu_OJbVaGPXFwBUar3LD2coEdtqxCJQ/viewform?usp=sf_link"
         },
         {
           "text": "Assignment 1 - Hello World: GitHub and d3",
@@ -17,7 +17,7 @@
     }
   },
   {
-    "date": "12-Jan-2018",
+    "date": "10-Jan-2018",
     "day": {
       "due": "Assignment 0 -- 11:59pm"
     }
@@ -207,8 +207,7 @@
     ],
     "day": {
       "topic": "Tabular Data",
-      "due": "Final Project Proposal",
-      "vid": "https://www.youtube.com/watch?v=p5IUsg7ZImg"
+      "due": "Final Project Proposal"
     }
   },
   {
