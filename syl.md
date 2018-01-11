@@ -90,9 +90,10 @@ Grading
 
 Your course grade comes from three parts:
 
-- Assignments (50%)
+- Assignments (40%)
 - Labs (10%)
 - Quizzes (10%)
+- Reflections (10%)
 - Final Project (30%)
 
 Academic Honesty
