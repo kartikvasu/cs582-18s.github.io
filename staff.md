@@ -15,5 +15,8 @@ Instructor
 Thursday 400-600 @ FL-136
 
 TAs
+Hamid Mansoor   
+Wednesday, Thursday 200 - 300 @ FL-A22     
+
 
 Grader
