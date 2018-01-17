@@ -19,6 +19,6 @@ Hamid Mansoor
 Wednesday, Thursday 200 - 300 @ FL-A22     
 
 
-SAs
-Kartik Vasu
-Tuesday, 200 - 300 @ FL-A22
+SAs  
+Kartik Vasu  
+Tuesday, 200 - 300 @ FL-A22  
