@@ -62,7 +62,7 @@ Programming Language
 
 We'll be using [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"} with [d3.js](https://d3js.org/){:target="_blank"} to develop visualizations in this course.
 
-You also may have heard of Processing, which is a programming language that sits above Java and facilitates rapid development of graphics applications. If you're experienced with Java, Processing is fun to try.
+You also may have heard of [Processing](https://processing.org/){:target="_blank"}, which is a programming language that sits above Java and facilitates rapid development of graphics applications. If you're experienced with Java, Processing is fun to try.
 
 The first person who sends me a pull request correcting a typo or broken link will receive a tech sticker of their choosing from my collection.
 
