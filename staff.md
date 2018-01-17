@@ -19,4 +19,6 @@ Hamid Mansoor
 Wednesday, Thursday 200 - 300 @ FL-A22     
 
 
-Grader
+SAs
+Kartik Vasu
+Tuesday, 200 - 300 @ FL-A22
