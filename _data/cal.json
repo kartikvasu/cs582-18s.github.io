@@ -208,11 +208,7 @@
         "text": "How to Use t-SNE Effectively",
         "link": "http://distill.pub/2016/misread-tsne/"
       }
-    ],
-    "day": {
-      "topic": "Tabular Data",
-      "due": "Final Project Proposal"
-    }
+    ]
   },
   {
     "date": "13-Feb-2018",
@@ -343,7 +339,7 @@
   },
   {
     "date": "2-Apr-2018",
-    "weekly_header": "Week 11 (Apr 2 - 6)",
+    "weekly_header": "Week 11 (Apr 2 - 6)"
   },
   {
     "date": "4-Apr-2018",

@@ -14,6 +14,11 @@ Instructor
 [FL-136](http://myatlascms.com/map/?id=609&mrkIid=105239){:target="_blank"}  
 Thursday 400-600 @ FL-136
 
-TAs
+TAs   
+Hamid Mansoor   
+Wednesday, Thursday 200 - 300 @ FL-A22     
 
-Grader
+
+SAs  
+Kartik Vasu  
+Tuesday, 200 - 300 @ FL-A22  

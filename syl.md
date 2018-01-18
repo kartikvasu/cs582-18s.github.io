@@ -41,7 +41,7 @@ If you're interested in data visualization beyond this class, particularly the a
 
 Assignments
 ---
-Assignments are the core of this course. Each assignment will focus on a particular aspect of data visualization, such as visualizations network data or criticism and design of existing systems. The lectures and labs will equip you with the background, visualization theory, and technical skills to develop effective visualizations for these datasets.
+Assignments are the core of this course. Each assignment will focus on a particular aspect of data visualization, such as visualizations of network data or criticism and design of existing systems. The lectures and labs will equip you with the background, visualization theory, and technical skills to develop effective visualizations for these datasets.
 
 Unless stated otherwise, assignment are due by the end of the date listed on the calendar, e.g. if the due date is on a Thursday, the assignment is due by 11:59pm Thursday.
 
@@ -62,7 +62,7 @@ Programming Language
 
 We'll be using [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"} with [d3.js](https://d3js.org/){:target="_blank"} to develop visualizations in this course.
 
-You also may have heard of Processing, which is a programming language that sits above Java and facilitates rapid development of graphics applications. If you're experienced with Java, Processing is fun to try.
+You also may have heard of [Processing](https://processing.org/){:target="_blank"}, which is a programming language that sits above Java and facilitates rapid development of graphics applications. If you're experienced with Java, Processing is fun to try.
 
 The first person who sends me a pull request correcting a typo or broken link will receive a tech sticker of their choosing from my collection.
 
