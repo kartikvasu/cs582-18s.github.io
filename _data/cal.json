@@ -13,7 +13,9 @@
           "text": "Assignment 1 - Hello World: GitHub and d3",
           "link": "https://github.com/cs582-18s/01-ghd3"
         }
-      ]
+      ],
+      "materials": "materials/datavis-overview.pdf",
+      "vid": "https://www.youtube.com/watch?v=s5QeSpIVdbc"
     }
   },
   {
@@ -65,6 +67,8 @@
         "text": "Data Deconstruction",
         "link": "https://github.com/cs582-18s/lab-deconstruct"
       }
+      "materials": "materials/datavis-representation.pdf",
+      "vid": "https://www.youtube.com/watch?v=s5QeSpIVdbc"
     }
   },
   {

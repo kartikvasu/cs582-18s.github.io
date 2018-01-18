@@ -25,6 +25,10 @@ h2, ul {
   margin-bottom: 0
 }
 
+.topic, .assigned, .due, .materials, .vid {
+  padding-left: 2em;
+}
+
 </style>
 
 **This schedule will change as we calibrate the first few weeks of the course.**   

@@ -120,3 +120,6 @@ Useful Resources
 ---
 
 Check out [Tips](/tips/) for additional useful resources.
+
+**WPI Writing Center** 
+Located on the first floor of Daniels Hall (room 116), the Writing Center is a valuable resource for helping you improve as a writer. Writing Center tutors are your peers (other undergraduate and graduate students at WPI) who are experienced writers themselves and who enjoy helping others tackle thinking/writing challenges. Although a single tutoring session should never be seen as a quick fix for any writing difficulty, these sessions can help you identify your strengths and weaknesses, and teach you strategies for organizing, revising, and editing your course papers, projects, and presentations. Writing Center services are free and open to all WPI students in all classes, and tutors will happily work with you at any stage of the writing process (early brainstorming, revising a rough draft, polishing sentences in a final draft). Visit the Writing Center website <wpi.edu/+writing> to make an appointment.
