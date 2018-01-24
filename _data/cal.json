@@ -101,7 +101,9 @@
           "text": "Assignment 3 - Replicating a Classic Experiment",
           "link": "https://github.com/cs582-18s/03-Experiment"
         }
-      ]
+      ],
+      "materials": "materials/datavis-abstraction.pdf",
+      "vid": "https://www.youtube.com/watch?v=d9HVr_8iwpo:"
     }
   },
   {
