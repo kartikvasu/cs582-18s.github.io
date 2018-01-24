@@ -63,10 +63,6 @@
     "date": "17-Jan-2018",
     "day": {
       "topic": "Data Representation",
-      "lab": {
-        "text": "Data Deconstruction",
-        "link": "https://github.com/cs582-18s/lab-deconstruct"
-      },
       "materials": "materials/datavis-representation.pdf",
       "vid": "https://www.youtube.com/watch?v=wAYT9FlfVHc&index=2&list=PLq-r_7K2pEiGY7DnCR6OMpBxFipRgBj2k&t=1s"
     }
@@ -115,7 +111,11 @@
   {
     "date": "24-Jan-2018",
     "day": {
-      "topic": "Evaluation",
+      "topic": "Design / Evaluation",
+      "lab": {
+        "text": "WhatWhyHow",
+        "link": "https://github.com/cs582-18s/WhatWhyHow"
+      },
       "assigned": [
         {
           "text": "Final Project",
