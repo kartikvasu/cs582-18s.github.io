@@ -179,6 +179,7 @@
     ],
     "day": {
       "topic": "Color",
+      "materials": "materials/datavis-color.pdf",
       "vid": "http://www.youtube.com/watch?v=kXb7LLpILA8"
     }
   },
@@ -189,7 +190,10 @@
     }
   },
   {
-    "date": "7-Feb-2018"
+    "date": "7-Feb-2018",
+    "day": {
+      "topic": "Color Lab"
+    }
   },
   {
     "date": "12-Feb-2018",
