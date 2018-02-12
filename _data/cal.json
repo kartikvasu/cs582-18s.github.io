@@ -151,6 +151,8 @@
     ],
     "day": {
       "topic": "Visual Channels and Data Mapping",
+      "vid": "http://www.youtube.com/watch?v=SEIpZ3tp7s8",
+      "materials": "materials/datavis-visualchannels.pdf",
       "assigned": [
         {
           "text": "Assignment 4 - Maps And Views",
