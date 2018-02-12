@@ -197,6 +197,9 @@
   },
   {
     "date": "12-Feb-2018",
+    "day": {
+      "topic": "Tabular Data"
+    },
     "weekly_header": "Week 5 (Feb 12 - 16)",
     "weekly_reading": [
       {
@@ -228,7 +231,8 @@
   {
     "date": "14-Feb-2018",
     "day": {
-      "due": "Project Proposal -- 11:59pm"
+      "due": "Project Proposal -- 11:59pm",
+      "topic": "Tabular Data Lab"
     }
   },
   {
@@ -241,11 +245,7 @@
       }
     ],
     "day": {
-      "topic": "Spatial Data",
-      "lab": {
-        "text": "Maps!",
-        "link": "https://github.com/cs582-18s/lab-map"
-      }
+      "topic": "Guest Lecture: BioVis in support of Neuro research"
     }
   },
   {
@@ -271,8 +271,7 @@
     "date": "28-Feb-2018",
     "day": {
       "lab": {
-      "text": "Using the Force",
-      "link": ""
+      "text": "Using the Force"
     },
       "due": "Final Project -- 11:59pm"
     }
