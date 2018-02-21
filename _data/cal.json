@@ -252,7 +252,8 @@
       }
     ],
     "day": {
-      "topic": "Guest Lecture: Ross Lagoy | BioVis in support of Neuro research"
+      "topic": "Guest Lecture: Ross Lagoy | BioVis in support of Neuro research",
+      "materials": "materials/biovis-lagoy.pdf"
     }
   },
   {
