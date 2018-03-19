@@ -62,6 +62,9 @@ M/W 4:00-5:50pm
 
 ### Announcements
 
+
+- mon-03-19: Three components to the grad final: 1) [prospectus](https://github.com/cs582-18s/prospectus), 2) [annotated bib](https://github.com/cs582-18s/annotated-bibliography), 3) [the final paper](https://github.com/cs582-18s/gradfinal)
+- mon-03-19: Grad reading feedback form -> https://goo.gl/forms/LDyFJFHhn4lpCitL2
 - wed-01-10: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack){:target="_blank"}.
 
 - wed-01-10: New? [Check out init](/init/) to get started.
